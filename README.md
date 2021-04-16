@@ -12,7 +12,7 @@ VSCode can open the project in a "devcontainer" whcih contains a Go compliler. T
 
 ## Usage 
 
- Compile
+### Compile
 
 ```bash 
 go build
